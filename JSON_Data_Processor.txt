@@ -1,0 +1,2 @@
+
+In this program, we use the json library to read and write JSON data from and to a file. We provide functions to find, increase the price of, update the quantity of, add, and remove products from the JSON data. The user can interact with the program through a simple menu to perform the desired operations. This exercise demonstrates working with JSON data and file handling in Python, which are common tasks in real work environments.
